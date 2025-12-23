@@ -1,5 +1,4 @@
 <h4 align="left">Hey there, I am Siva sai Varshith.</h4>
-### B.Tech Mathematics & Computing @ IIT Goa | ML Engineering Student | Training Models in PyTorch | NLP & Computer Vision ###
 
 ###
 
