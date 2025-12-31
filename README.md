@@ -1,5 +1,18 @@
 Hi , I am Siva Sai Varshith. 
 ---
+
+Undergraduate in **Mathematics & Computing at IIT Goa**  
+focused on building **robust backend systems** and **applied machine learning models** with strong emphasis on **correctness, trade-offs, and mathematical understanding**.
+
+I care about:
+- clean system abstractions
+- correctness under concurrency
+- performance vs simplicity trade-offs
+- understanding ML models beyond black-box usage
+
+---
+
+
 This is My Tech stack:
 
 <div align="center">
@@ -32,3 +45,57 @@ This is My Tech stack:
 </div>
 
 
+
+## Areas of Focus
+
+### Backend & Systems Engineering
+- C++ backend services with clear separation of concerns
+- Concurrency control (mutexes, invariants, race-condition prevention)
+- API design, routing, persistence layers
+- Writing code that is **interview-defendable**, not framework-dependent
+
+### Applied Machine Learning
+- Data analysis and ML pipelines in Python
+- Model training and evaluation using PyTorch
+- Focus on **loss behavior, optimization dynamics, and failure modes**
+- Preference for models I can reason about mathematically
+
+---
+
+## Featured Work
+
+### Backend Key-Value Store (C++)
+A multithreaded backend service implementing:
+- request parsing and routing
+- concurrency-safe data access
+- persistence guarantees
+- clearly stated correctness assumptions
+
+Emphasis on **architecture, invariants, and limitations** rather than feature count.
+
+[Repository link]
+
+---
+
+### Machine Learning Projects
+- End-to-end ML workflows: data → model → evaluation
+- Emphasis on understanding **why models fail**, not just metrics
+- Projects grounded in real datasets and clear assumptions
+
+[ML repository / notebook link]
+
+---
+## Tools I Use With Intent
+
+- **Languages:** C++, Python, JavaScript  
+- **Systems:** STL, threading, mutexes, file I/O  
+- **ML:** PyTorch, NumPy, Jupyter  
+- **Data:** SQL (MySQL, SQL Server)  
+- **Web:** HTML, CSS, Tailwind
+
+## Current Goals
+- Strengthen backend system design depth
+- Build ML projects suitable for **GSoC-level codebases**
+- Bridge theory → implementation → evaluation
+
+---
