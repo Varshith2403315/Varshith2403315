@@ -73,7 +73,7 @@ A multithreaded backend service implementing:
 
 Emphasis on **architecture, invariants, and limitations** rather than feature count.
 
-[Repository link]
+[[Repository link](https://github.com/Varshith2403315/cpp-backend-service.git)]
 
 ---
 
@@ -81,8 +81,6 @@ Emphasis on **architecture, invariants, and limitations** rather than feature co
 - End-to-end ML workflows: data → model → evaluation
 - Emphasis on understanding **why models fail**, not just metrics
 - Projects grounded in real datasets and clear assumptions
-
-[ML repository / notebook link]
 
 ---
 ## Tools I Use With Intent
