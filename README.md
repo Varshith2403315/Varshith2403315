@@ -62,27 +62,6 @@ This is My Tech stack:
 
 ---
 
-## Featured Work
-
-### Backend Key-Value Store (C++)
-A multithreaded backend service implementing:
-- request parsing and routing
-- concurrency-safe data access
-- persistence guarantees
-- clearly stated correctness assumptions
-
-Emphasis on **architecture, invariants, and limitations** rather than feature count.
-
-[[Repository link](https://github.com/Varshith2403315/cpp-backend-service.git)]
-
----
-
-### Machine Learning Projects
-- End-to-end ML workflows: data → model → evaluation
-- Emphasis on understanding **why models fail**, not just metrics
-- Projects grounded in real datasets and clear assumptions
-
----
 ## Tools I Use With Intent
 
 - **Languages:** C++, Python, JavaScript  
@@ -90,10 +69,5 @@ Emphasis on **architecture, invariants, and limitations** rather than feature co
 - **ML:** PyTorch, NumPy, Jupyter  
 - **Data:** SQL (MySQL, SQL Server)  
 - **Web:** HTML, CSS, Tailwind
-
-## Current Goals
-- Strengthen backend system design depth
-- Build ML projects suitable for **GSoC-level codebases**
-- Bridge theory → implementation → evaluation
 
 ---
