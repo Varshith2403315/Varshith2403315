@@ -1,19 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Siva sai varshith Mitta</h1>
 
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Varshith2403315">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Varshith2403315&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Varshith2403315's GitHub Stats" />
-  </a>
-<br/>
-  <img src="https://streak-stats.demolab.com/?user=Varshith2403315&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Varshith2403315's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 > ## Programming Languages
@@ -36,6 +22,21 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Varshith2403315&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
   </a>
 </p>
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Varshith2403315">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Varshith2403315&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Varshith2403315's GitHub Stats" />
+  </a>
+<br/>
+  <img src="https://streak-stats.demolab.com/?user=Varshith2403315&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Varshith2403315's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
+
+
 
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/siva-sai-varshith-mitta-728355328/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/917702150806" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:varshith15a05m@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
