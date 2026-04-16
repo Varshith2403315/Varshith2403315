@@ -25,37 +25,51 @@
 
 ### Programming Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
 </p>
 
-### Frontend
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
-</p>
-
-### Backend
+### Backend & Systems
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-</p>
-
-### Databases
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
-### Tools
+### Web & Tools
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="45"/>
 </p>
+
+---
+
+## Selected Work
+
+### Concurrent Key-Value Backend Service (C++)
+- Designed a modular backend separating parsing, routing, and state management  
+- Implemented crash-safe persistence using atomic snapshot replacement  
+- Engineered thread-safe KVStore using mutex synchronization with correctness guarantees  
+- Planned extensibility toward WAL and fine-grained locking  
+
+---
+
+### Placement-Aware Job Feed System (Open Source Contribution)
+- Built an intelligent job ranking engine based on eligibility, skill match, and deadlines  
+- Designed multi-stage MongoDB aggregation pipelines ($lookup, $group, $sort)  
+- Fixed critical data modeling bug by replacing string-based matching with ObjectId references  
+- Wrote migration scripts to safely update legacy production data  
+
+---
+
+### Chrome Extension — Tabrix
+- Developed browser extension coordinating content and background scripts  
+- Integrated summarization and classification APIs with fallback handling  
+- Ensured stable state and permission management via manifest configuration  
 
 ---
 
@@ -86,13 +100,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/siva-sai-varshith-mitta-728355328/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="38"/>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="38"/>
   </a>
-  <a href="mailto:varshith15a05m@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="38"/>
+  <a href="mailto:siva.sai.varshith.mitta@iitgoa.ac.in" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="38"/>
   </a>
   <a href="https://wa.me/917702150806" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" width="38"/>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="38"/>
   </a>
 </p>
 
